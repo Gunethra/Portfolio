@@ -1743,7 +1743,8 @@ sup[id^="fnref"]:hover .footnote-popup {
     margin-left: 1rem;
     margin-top: auto;
     margin-bottom: auto;
-    filter: var(--logo-filter);
+    opacity: 0.8;
+    /* filter: var(--logo-filter); */
 }
 
 /* Specific logo size adjustments */
